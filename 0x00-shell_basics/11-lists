@@ -1,2 +1,2 @@
 #!/bin/bash
-ls   -alUX  . .. /boot
+ls   -alU sort    . .. /boot
