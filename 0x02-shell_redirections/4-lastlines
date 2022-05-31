@@ -1,0 +1,2 @@
+#bin/bash
+tali -1 /etc/passwd
