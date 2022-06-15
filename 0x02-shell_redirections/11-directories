@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -laR | grep '^d' | grep -v '\.$' | wc -l 
+ls -laR | grep '^d' | grep -v '\.$' | wc -l
+ 
