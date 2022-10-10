@@ -1,2 +1,2 @@
 #!/bin/bash
-awk '/bin/' 'END {wc -l}' /etc/passwd
+awk '/bin/' /etc/passwd | wc -l
